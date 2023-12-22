@@ -15,5 +15,12 @@ Run the script directly in a Python 3 environment:
 
 ```bash
 python owncloud_version_checker.py
+```
 
 ##Prerequisites
+
+Before running the script, ensure you have Python 3 installed along with the following packages:
+
+```bash
+pip install requests beautifulsoup4
+```
