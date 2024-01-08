@@ -14,7 +14,7 @@ This Python script is designed to automate the process of checking and comparing
 Run the script directly in a Python 3 environment:
 
 ```bash
-python owncloud_version_checker.py
+python checkVersion.py
 ```
 
 ## Prerequisites
